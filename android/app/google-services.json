@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731182633447",
+    "project_id": "messengerflutter-d9958",
+    "storage_bucket": "messengerflutter-d9958.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731182633447:android:0e1f512581f752851f6d42",
+        "android_client_info": {
+          "package_name": "solofo.otniela.flutter_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731182633447-9fuv2kd9eha6p0etnt39bbmju4a329ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTFpvYB2uXG8bDoFiYfmtDdRm-vNq26uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731182633447-9fuv2kd9eha6p0etnt39bbmju4a329ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
